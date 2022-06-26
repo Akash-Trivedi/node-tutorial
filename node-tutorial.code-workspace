@@ -10,6 +10,7 @@
 		"terminal.integrated.fontSize": 18,
 		"workbench.colorTheme": "Gruvbox Dark Hard",
 		"workbench.editor.showTabs": true,
-		"editor.tabSize": 2
+		"editor.tabSize": 2,
+		"editor.glyphMargin": false
 	}
 }

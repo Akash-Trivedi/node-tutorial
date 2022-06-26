@@ -1,0 +1,8 @@
+npm i <package> for local project having package.json
+npm install <package> for global project
+
+package.json is like the manifest file that stores
+the project/ package info
+npm init for creating package.json by cli
+npm init -y for automaticaly default values for all the questions
+
