@@ -9,6 +9,7 @@
 		"editor.fontFamily": "Inconsolata",
 		"terminal.integrated.fontSize": 18,
 		"workbench.colorTheme": "Gruvbox Dark Hard",
-		"workbench.editor.showTabs": true
+		"workbench.editor.showTabs": true,
+		"editor.tabSize": 2
 	}
 }
