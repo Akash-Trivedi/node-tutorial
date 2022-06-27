@@ -17,12 +17,25 @@ to the value for the key of scripts object
 ex: npm test or npm start
 we can also run our programs, check package.json
 
+asynchronous functions are always offloaded and run after synchronous functions
+
 ---
 ## event loop
 > allows node.js to perform non-blocking I/O operations, despite the fact that JavaScript is single threaded
 ---
+
 ## async patterns
 ---
+> 
 ## event emitters
 ---
 ## streams
+
+
+
+
+
+
+
+
+

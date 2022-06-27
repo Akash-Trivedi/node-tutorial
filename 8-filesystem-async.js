@@ -3,7 +3,7 @@
  * callback runs after the execution of called function
  */
 
-const { readFile, writeFile, write } = require('fs')
+const { readFile, writeFile } = require('fs')
 
 readFile(
     './content/first.txt',
