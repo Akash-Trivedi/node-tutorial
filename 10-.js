@@ -6,7 +6,8 @@ const server = http.createServer(
       res.end('homepage')
     }
 
-    // 
+    // this the blocking code presenting the 
+    // problem with synchronous code
     if (req.url === '/about') {
       // blocking code
       for (let i = 0; i < 1000; i++) {

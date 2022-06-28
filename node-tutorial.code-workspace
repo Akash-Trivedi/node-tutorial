@@ -5,10 +5,11 @@
 		}
 	],
 	"settings": {
-		"editor.fontSize": 20,
+		"editor.fontSize": 21,
 		"editor.fontFamily": "Inconsolata",
+		"editor.fontWeight": "500",
 		"terminal.integrated.fontSize": 18,
-		"workbench.colorTheme": "Gruvbox Dark Hard",
+		"workbench.colorTheme": "Visual Studio Dark",
 		"workbench.editor.showTabs": true,
 		"editor.tabSize": 2,
 		"editor.glyphMargin": false
