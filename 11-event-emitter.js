@@ -7,5 +7,5 @@ customEmitter.on(
     console.log('data recieved');
   }
 )
-
+ 
 customEmitter.emit('response')

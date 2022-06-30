@@ -5,13 +5,16 @@
 		}
 	],
 	"settings": {
-		"editor.fontSize": 21,
-		"editor.fontFamily": "Inconsolata",
+		"editor.fontSize": 20,
+		"editor.fontFamily": "Consolas",
 		"editor.fontWeight": "500",
 		"terminal.integrated.fontSize": 18,
-		"workbench.colorTheme": "Visual Studio Dark",
+		"workbench.colorTheme": "Plain Theme VSCode",
 		"workbench.editor.showTabs": true,
 		"editor.tabSize": 2,
-		"editor.glyphMargin": false
+		"editor.glyphMargin": false,
+		"codesnap.backgroundColor": "#4DD0E1",
+		"codesnap.boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px",
+		"codesnap.roundedCorners": true,
 	}
 }
