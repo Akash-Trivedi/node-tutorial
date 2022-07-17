@@ -7,6 +7,7 @@ const http = require('http')
 const hostName = 'localhost';
 const portNumber = 5000;
 const defaultValue = null;
+
 const server = http.createServer(
     (request, response) => {
         if (request.url === '/') {

@@ -1,8 +1,8 @@
 /**
- * using filesystem module
- * can be implemented asynchronously as well as synchronously
- * node knows how to decode the files
- */
+* using filesystem module
+* can be implemented asynchronously as well as synchronously
+* node knows how to decode the files
+*/
 
 const { readFileSync, writeFileSync } = require('fs')
 

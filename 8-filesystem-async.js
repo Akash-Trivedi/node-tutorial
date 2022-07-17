@@ -12,10 +12,10 @@ readFile(
             console.log(err);
             return
         }
+        // <Buffer 68 65 6c 6c 6f 20 74 68 69 73 20 69 73 20 66 69 72 73 74 20 74 65 78 74 20 66 69 6c 65>
         console.log(result);
     }
 )
-// <Buffer 68 65 6c 6c 6f 20 74 68 69 73 20 69 73 20 66 69 72 73 74 20 74 65 78 74 20 66 69 6c 65>
 
 readFile(
     './content/first.txt',

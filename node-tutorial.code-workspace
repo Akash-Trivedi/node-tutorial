@@ -5,11 +5,11 @@
 		}
 	],
 	"settings": {
-		"editor.fontSize": 20,
-		"editor.fontFamily": "Consolas",
+		"editor.fontSize": 18,
+		"editor.fontFamily": "Inconsolata",
 		"editor.fontWeight": "500",
 		"terminal.integrated.fontSize": 18,
-		"workbench.colorTheme": "Plain Theme VSCode",
+		"workbench.colorTheme": "Gruvbox Dark Hard",
 		"workbench.editor.showTabs": true,
 		"editor.tabSize": 2,
 		"editor.glyphMargin": false,
